@@ -1,0 +1,8 @@
+Python
+.venv\Scripts\activate
+
+Run params
+--enable-insecure-extension-access
+
+Extentions
+git clone https://github.com/kabachuha/sd-webui-text2video extensions/sd-webui-text2video
